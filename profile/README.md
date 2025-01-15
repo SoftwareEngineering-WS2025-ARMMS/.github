@@ -17,11 +17,21 @@ Welcome to the GitHub organization for "VEREINfacht" —a platform designed to s
 ### 🔗 Core Repositories
 
 - **[Infrastructure](https://github.com/SoftwareEngineering-WS2025-ARMMS/infrastructure):** The backbone of the project, handling user management, dashboard and plugin integration.
-- **[Storage Engine: Dropbox Wrapper](https://github.com/SoftwareEngineering-WS2025-ARMMS/storage-engine):**
+
+  - **Current Dashboard Deployment Link (entrypoint)**: https://armms-dashboard.aorief.com/
+  - **Current Keycloak Deployment Link**: https://keycloak-armms.rayenmanai.site
+
+  - **[MVP Project Management](https://github.com/orgs/SoftwareEngineering-WS2025-ARMMS/projects/7)**
+
+- **[Storage Engine: Dropbox Wrapper](https://github.com/SoftwareEngineering-WS2025-ARMMS/storage-engine)**
+  - **Current Deployment Link**: https://armms-storage.aorief.com/
+  - **[Project Management](https://github.com/orgs/SoftwareEngineering-WS2025-ARMMS/projects/8)**
 
 ### 🔗 Plugin Examples
 
 #### ProtoGen
+
+- **Current Deployment Link**: https://protogen-armms.rayenmanai.site/
 
 - **[ProtoGen Frontend](https://github.com/SoftwareEngineering-WS2025-ARMMS/ProtoGen-fe):**.
 
@@ -29,12 +39,18 @@ Welcome to the GitHub organization for "VEREINfacht" —a platform designed to s
 
 - **[ProtoGen Backend](https://github.com/SoftwareEngineering-WS2025-ARMMS/GEN_AI_Protokoll):**.
 
-  - **[Project Management](https://github.com/orgs/SoftwareEngineering-WS2025-ARMMS/projects/1):** Overview of issues, tasks and iterations.
+  - **[Project Management](https://github.com/orgs/SoftwareEngineering-WS2025-ARMMS/projects/1)**
 
 #### Chatbot
 
+- **Current Deployment Link**: https://armms-chatbot.aorief.com/
+
+- **[open-webui](https://github.com/SoftwareEngineering-WS2025-ARMMS/open-webui)**
+- **[chatbot pipelines](https://github.com/SoftwareEngineering-WS2025-ARMMS/chatbot)**
+  - **[Project Management](https://github.com/orgs/SoftwareEngineering-WS2025-ARMMS/projects/3)**
+
 ### 📚 Documentation
 
----
-
-## Getting Started 🛠️
+- **[Documenation Repo](https://github.com/SoftwareEngineering-WS2025-ARMMS/documentation)**
+  - **[Live Documentation](https://softwareengineering-ws2025-armms.github.io/documentation/)**
+  - **[Artefacts](https://github.com/SoftwareEngineering-WS2025-ARMMS/documentation/tree/main/artefacts)**
